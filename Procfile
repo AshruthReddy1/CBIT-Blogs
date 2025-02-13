@@ -1,1 +1,0 @@
-web: gunicorn CbitBlogs.wsgi --log-file -
